@@ -10,9 +10,9 @@ The dataset consists of nearly 1400 images belonging to 2 classes - <b>with_mask
 To accomplish this task, I’ll be fine-tuning the MobileNet V2 architecture, a highly efficient architecture that can be applied to embedded devices with limited computational capacity (ex., Raspberry Pi, Google Coral, NVIDIA Jetson Nano, etc.).
 
 <h2> This model achieves an accuracy of around 99.5% on the test set </h2>
-<img src = "C:\Users\kanad\Pictures\WhatsApp Image 2021-09-19 at 10.56.58 PM (2).jpeg">
 
+![WhatsApp Image 2021-09-19 at 10 56 58 PM (2)](https://user-images.githubusercontent.com/90503792/133937089-c89e44e4-78f3-4f7e-ab49-302e76c8bf21.jpeg)
+
+![accuracy plot](https://user-images.githubusercontent.com/90503792/133937142-c48320fd-6fce-4ceb-b643-7a4a1319b1a2.png)
 
 <h2>Happy coding and stay safe :)</h2>
-
-
