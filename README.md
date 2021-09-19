@@ -1,3 +1,4 @@
+![Promo-Collage](https://user-images.githubusercontent.com/90503792/133937595-74ffa927-34e5-4ddb-aaa2-496676c6dc0b.jpg)
 <h1>Detection of Face mask using Keras and Tensorflow</h1>
    
 <h2>This is project which aims at detection of Face mask in <b><i>real-time video streams</i></b> with the use of OpenCV, Keras, TensorFlow and Deep learning.</h2>
